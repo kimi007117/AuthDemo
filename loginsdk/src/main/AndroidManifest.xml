@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.kimi.login.sdk">
+
+    <application
+        android:label="@string/app_name">
+
+        <activity android:name=".AuthActivity"/>
+
+    </application>
+
+</manifest>
