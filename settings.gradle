@@ -1,1 +1,1 @@
-include ':app', ':loginsdk'
+include ':app', ':loginsdk', ':AppBarDemo'
